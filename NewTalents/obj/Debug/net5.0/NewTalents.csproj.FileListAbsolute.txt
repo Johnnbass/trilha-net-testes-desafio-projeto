@@ -1,0 +1,16 @@
+/home/johnny/Documentos/Cursos/DIO/Bootcamps/Csharp_Wex/trilha-net-testes-desafio-projeto/NewTalents/bin/Debug/net5.0/NewTalents
+/home/johnny/Documentos/Cursos/DIO/Bootcamps/Csharp_Wex/trilha-net-testes-desafio-projeto/NewTalents/bin/Debug/net5.0/NewTalents.deps.json
+/home/johnny/Documentos/Cursos/DIO/Bootcamps/Csharp_Wex/trilha-net-testes-desafio-projeto/NewTalents/bin/Debug/net5.0/NewTalents.runtimeconfig.json
+/home/johnny/Documentos/Cursos/DIO/Bootcamps/Csharp_Wex/trilha-net-testes-desafio-projeto/NewTalents/bin/Debug/net5.0/NewTalents.runtimeconfig.dev.json
+/home/johnny/Documentos/Cursos/DIO/Bootcamps/Csharp_Wex/trilha-net-testes-desafio-projeto/NewTalents/bin/Debug/net5.0/NewTalents.dll
+/home/johnny/Documentos/Cursos/DIO/Bootcamps/Csharp_Wex/trilha-net-testes-desafio-projeto/NewTalents/bin/Debug/net5.0/ref/NewTalents.dll
+/home/johnny/Documentos/Cursos/DIO/Bootcamps/Csharp_Wex/trilha-net-testes-desafio-projeto/NewTalents/bin/Debug/net5.0/NewTalents.pdb
+/home/johnny/Documentos/Cursos/DIO/Bootcamps/Csharp_Wex/trilha-net-testes-desafio-projeto/NewTalents/obj/Debug/net5.0/NewTalents.csproj.AssemblyReference.cache
+/home/johnny/Documentos/Cursos/DIO/Bootcamps/Csharp_Wex/trilha-net-testes-desafio-projeto/NewTalents/obj/Debug/net5.0/NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnny/Documentos/Cursos/DIO/Bootcamps/Csharp_Wex/trilha-net-testes-desafio-projeto/NewTalents/obj/Debug/net5.0/NewTalents.AssemblyInfoInputs.cache
+/home/johnny/Documentos/Cursos/DIO/Bootcamps/Csharp_Wex/trilha-net-testes-desafio-projeto/NewTalents/obj/Debug/net5.0/NewTalents.AssemblyInfo.cs
+/home/johnny/Documentos/Cursos/DIO/Bootcamps/Csharp_Wex/trilha-net-testes-desafio-projeto/NewTalents/obj/Debug/net5.0/NewTalents.csproj.CoreCompileInputs.cache
+/home/johnny/Documentos/Cursos/DIO/Bootcamps/Csharp_Wex/trilha-net-testes-desafio-projeto/NewTalents/obj/Debug/net5.0/NewTalents.dll
+/home/johnny/Documentos/Cursos/DIO/Bootcamps/Csharp_Wex/trilha-net-testes-desafio-projeto/NewTalents/obj/Debug/net5.0/ref/NewTalents.dll
+/home/johnny/Documentos/Cursos/DIO/Bootcamps/Csharp_Wex/trilha-net-testes-desafio-projeto/NewTalents/obj/Debug/net5.0/NewTalents.pdb
+/home/johnny/Documentos/Cursos/DIO/Bootcamps/Csharp_Wex/trilha-net-testes-desafio-projeto/NewTalents/obj/Debug/net5.0/NewTalents.genruntimeconfig.cache
